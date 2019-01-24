@@ -1,11 +1,11 @@
-#Version 1
+# Version 1
 
 ### Components Updated
 - [x] Android App 
 - [ ] NodeJS API 
 - [x] Database
 
-#Version 2
+# Version 2
 
 ### Components Updated
 - [x] Android App 
